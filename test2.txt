@@ -1,1 +1,1 @@
-vi write test2
+test2
